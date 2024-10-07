@@ -33,3 +33,21 @@ The goal of **XSConverter** is to provide a user-friendly solution for quickly c
 1. Download the APK from the [latest release](https://github.com/dinAlexDu/xsconverter/releases/latest).
 2. Install the APK on your Android device.
 3. Start converting units!
+
+### XSConverter Screenshots
+
+#### Main Screen
+![Main Screen](./screenshots/main.jpg)
+
+#### Temperature Conversion Screen
+![Temperature Conversion](./screenshots/temperature.jpg)
+
+#### Weight Conversion Screen
+![Weight Conversion](./screenshots/weight.jpg)
+
+
+#### Length Conversion Screen
+![Length Conversion](./screenshots/length.jpg)
+
+#### Currency Conversion Screen
+![Currency Conversion](./screenshots/currencies_01.jpg)
