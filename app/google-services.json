@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655133721650",
+    "project_id": "xsconverter-8ec6c",
+    "storage_bucket": "xsconverter-8ec6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655133721650:android:167345da674e8acf70282b",
+        "android_client_info": {
+          "package_name": "com.example.xsconverter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4ceG6l9NptR50pjOCaDdme5fqtTu3YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
